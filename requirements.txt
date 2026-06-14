@@ -1,0 +1,6 @@
+moderngl>=5.9.0
+imgui[glfw]>=1.4.0
+glfw>=2.6.0
+numpy>=1.24.0
+pyrr>=0.10.3
+Pillow>=10.0.0
