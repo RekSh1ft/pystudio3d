@@ -5,6 +5,6 @@ I hope someone else continues this project for me in the future.
 
 
 # How to run
-Make sure you have Python installed
+Make sure you have Python installed. 
 Make sure you install the required dependecies by running the command ``pip install -r requirements.txt``
 then run ``main.py``
